@@ -18,4 +18,4 @@ Computer Vision & Image Analysis - KOM - DCSE UGM - 2023
 
 ## 📙 Final Project Paper
 
-https://drive.google.com/file/d/1wOGTtwgp-TaMLf8IhcLJ-bGKbhCXxoSk/view?usp=sharing 
+[See Paper Here](https://drive.google.com/file/d/1wOGTtwgp-TaMLf8IhcLJ-bGKbhCXxoSk/view?usp=sharing)
