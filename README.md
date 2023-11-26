@@ -15,7 +15,3 @@ Recently, fire incidents have become more frequent in various parts of the world
 | Muhammad Linggar Ryanidha      | 21/475209/PA/20548 | 
 
 Computer Vision & Image Analysis - KOM - DCSE UGM - 2023
-
-## 📙 Final Project Paper
-
-[See Paper Here](https://drive.google.com/file/d/1wOGTtwgp-TaMLf8IhcLJ-bGKbhCXxoSk/view?usp=sharing)
