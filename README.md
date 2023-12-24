@@ -1,4 +1,4 @@
-# 🔥 
+# 🔥🧯🔍
 # Image Fire Detection and Segmentation System Modelling Using Convolutional Neural Network CNN and U-NET
 
 Recently, fire incidents have become more frequent in various parts of the world, both due to nature and human negligence, but with rapid technological advances these things can be overcome, such as developments in sensors that detect fire, as well as advances in fire detection. using an image which makes up for the deficiencies that exist in detection using a sensor. Therefore, in this project, we are studying a fire detection system in images using a Convolutional Neural Network (CNN) and also U-NET.
